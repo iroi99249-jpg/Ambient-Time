@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "Ambient Time",
+    "tagline": "あなたの時間を、心地よい空間に。"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "appearance": "外観",
+    "scenes": "シーン",
+    "widgets": "ウィジェット",
+    "automation": "自動起動",
+    "performance": "パフォーマンス",
+    "settings": "設定",
+    "updates": "更新履歴",
+    "about": "アプリについて"
+  },
+  "common": {
+    "enabled": "有効",
+    "disabled": "無効",
+    "save": "保存",
+    "cancel": "キャンセル",
+    "close": "閉じる",
+    "loading": "読み込み中"
+  },
+  "automation": {
+    "title": "自動起動",
+    "idleTime": "無操作時間",
+    "minutes": "分",
+    "seconds": "秒",
+    "launchOnIdle": "無操作時に自動起動",
+    "suppressFullscreen": "全画面アプリ使用中は起動しない"
+  },
+  "updates": {
+    "title": "更新履歴",
+    "check": "更新を確認",
+    "current": "現在のバージョン",
+    "available": "新しいバージョンがあります"
+  }
+}
